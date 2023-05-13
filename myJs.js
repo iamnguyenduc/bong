@@ -1,8 +1,8 @@
 const textConfig = {
   text1: "He luu bé!",
-  text2: "Tui có điều này muốn hỏi, bé nhớ phải trả lời thật lòng nhaaa",
-  text3: "Bông có chấp nhận làm công chúa của tui hong",
-  text4: "Tuii đang tìm công chúa",
+  text2: "Anh có điều này muốn hỏi, bé nhớ phải trả lời thật lòng nhaaa",
+  text3: "Bông có chấp nhận làm công chúa của anh hong",
+  text4: "Anh đang tìm công chúa",
   text5: "Hong 🥺",
   text6: "Yêu ơi là yêu ❤️",
   text7: "lí do cậu thích tớ đi :vvvv",
